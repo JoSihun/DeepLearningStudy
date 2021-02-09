@@ -1,2 +1,1 @@
-# DeepLearningStudy
-SKU_DeepLearningStudy
+# web1
