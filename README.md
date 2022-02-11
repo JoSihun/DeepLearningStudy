@@ -21,7 +21,8 @@
   - 프로젝트 수행방법
   - 기대효과 및 활용분야
   - 참고자료
-- [D TEAM](#D-Team)  
+- [D TEAM](#D-Team-딥러닝-졸음감지-서비스): 딥러닝 졸음감지 서비스  
+  
 
 
 
@@ -289,7 +290,7 @@
 
 
 
-## D Team
+## D Team: 딥러닝 졸음감지 
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152640610-7ca8b65c-575c-4cd7-a024-7dc5c92f476d.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152640612-b6791b0f-a623-4fc2-9029-1dafaecf048e.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152640613-a0ce6bcd-9270-4136-ac62-8ccbd1188f61.JPG)
