@@ -15,7 +15,7 @@ SKU_DeepLearningStudy
 
 ## A Team: S.O.M(Search Of Music)
     안무 분석을 통한 음악 검색 앱  
-  - 제안배경 및 소비자 분석  
+  - [제안배경 및 소비자 분석](#제안배경-및-소비자-분석)  
     - 제안배경 및 현황  
       - K-POP이 세계적으로 유행 중이며, 중독적인 멜로디뿐만 아니라 안무적인 요소도 있음  
     - 기존기술 및 서비스  
@@ -25,7 +25,7 @@ SKU_DeepLearningStudy
     - 소비자 분석  
       - YouTube, TikTok 등의 SNS상에 급상승 중인 K-POP 안무에 관심이 있는 사람  
       - 언어장벽 등의 이유로 곡 정보를 찾기 힘들어하는 해외 K-POP 팬  
-  - 활용기술 및 시연  
+  - [활용기술 및 시연](#활용기술-및-시연)  
     - 핵심기술 및 구현  
       - 영상입력  
       - 입력영상 관절인식  
@@ -37,7 +37,7 @@ SKU_DeepLearningStudy
       - 바운딩 박스 및 관절 추출  
       - 관절 연결 이미지 추출  
       - CRNN 사용  
-  - 수익모델 및 시장분석  
+  - [수익모델 및 시장분석](#수익모델-및-시장분석)  
     - 수익모델  
       - 어플리케이션 판매  
       - 엔터테인먼트와 홍보계약  
@@ -56,7 +56,7 @@ SKU_DeepLearningStudy
       - 2023 안무를 배우는 기능  
       - 2024 안무 인식 시 음악 재생 기능  
       - 2025 서비자 안무 추가 기능  
-  - 사회공헌 및 팀 역량  
+  - [사회공헌 및 팀 역량](#사회공헌-및-팀-역량)  
     - 사회공헌  
       - 재활치료  
       - 홈트레이닝  
@@ -71,21 +71,34 @@ SKU_DeepLearningStudy
         팀원 전원 Python을 이용한 AI 프로그래밍 가능  
       - AI 개발 프로젝트 참여  
         AI 개발 연구에 소속되어 활동한 경험  
+
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152639519-65d7963d-6617-4983-b005-eaeab46c0c0f.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152639520-6ac34ff8-684c-4cd5-9e17-67d2a8697f59.JPG)
+
+***
+## 제안배경 및 소비자 분석  
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152639521-617e3c9d-dc44-49ef-b25b-ddb4d6b96f5f.JPG)
 ![슬라이드4](https://user-images.githubusercontent.com/59362257/152639522-bce100aa-aa47-41b0-b823-5883d2a2115c.JPG)
 ![슬라이드5](https://user-images.githubusercontent.com/59362257/152639523-2d2cd2e7-6146-45dd-8645-07460b39df88.JPG)
+
+***
+## 활용기술 및 시연  
 ![슬라이드6](https://user-images.githubusercontent.com/59362257/152639525-9f88bbd5-3ed5-46fd-9342-d4e6beec5ba2.JPG)
 ![슬라이드7](https://user-images.githubusercontent.com/59362257/152639527-f60cf8ec-e8ab-4598-8e65-2c40f195c79c.JPG)
 ![슬라이드8](https://user-images.githubusercontent.com/59362257/152639529-e2e8ce49-a12c-47ec-8a18-5031fb0e0977.JPG)
 ![슬라이드9](https://user-images.githubusercontent.com/59362257/152639530-17a0d53b-d935-46d6-9e8b-249c2ac2ed06.JPG)
 ![슬라이드10](https://user-images.githubusercontent.com/59362257/152639531-2c4e2953-d599-4e55-a16a-7572da015be9.JPG)
 ![슬라이드11](https://user-images.githubusercontent.com/59362257/152639532-5e4ce3b3-95cf-4fa1-bbb5-115c9cd56c42.JPG)
+
+***
+## 수익모델 및 시장분석  
 ![슬라이드12](https://user-images.githubusercontent.com/59362257/152639533-ec52cafc-3d7e-4dd6-88e3-4c58390dfe32.JPG)
 ![슬라이드13](https://user-images.githubusercontent.com/59362257/152639534-967436fe-3d5a-4248-a507-1846573bd39f.JPG)
 ![슬라이드14](https://user-images.githubusercontent.com/59362257/152639535-e291b575-ba3f-4332-8951-c3d11d4b7bc2.JPG)
 ![슬라이드15](https://user-images.githubusercontent.com/59362257/152639537-75d390d5-a37f-4d6c-a411-3992024df45b.JPG)
+
+***
+## 사회공헌 및 팀 역량  
 ![슬라이드16](https://user-images.githubusercontent.com/59362257/152639540-c7554264-b7dd-4391-af48-eeb65753b11a.JPG)
 ![슬라이드17](https://user-images.githubusercontent.com/59362257/152639541-262cf4f0-6c34-4615-9ff0-2d6795a871d1.JPG)
 
