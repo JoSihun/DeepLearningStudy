@@ -83,7 +83,6 @@ SKU_DeepLearningStudy
 
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152639519-65d7963d-6617-4983-b005-eaeab46c0c0f.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152639520-6ac34ff8-684c-4cd5-9e17-67d2a8697f59.JPG)
-
 ***
 ## 제안배경 및 소비자 분석  
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152639521-617e3c9d-dc44-49ef-b25b-ddb4d6b96f5f.JPG)
@@ -119,19 +118,67 @@ SKU_DeepLearningStudy
 ## B Team: Helper  
     국내 사회적 약자를 대상으로한 기부 앱  
   - [서비스 개요 및 상세](#서비스-개요-및-상세)  
+    - 서비스 개요  
+      - 급하게 도움이 필요한 사회적 약자 계층 대상  
+      - 기부대상으로 선정되지 못한 사회적 약자 계층 대상  
+      - 1대 1로 간편하고 신속한 도움  
+    - 서비스 상세  
+      - 기부 대상자  
+        주변에서 쉽게 볼 수 있는 개개인 대상  
+      - 메신저 기능  
+        기부자와 기부대상 간의 1대1 커뮤니케이션 가능  
+      - 간단한 신청  
+        금전적/비금전적 도움을 게시판 형태를 통해 간단히 요청  
+      - 캠페인 참여  
+        유니세프/어린이재단 등 큰 규모의 기부캠페인도 참여 가능  
   - [시연 및 기대효과](#시연-및-기대효과)  
+    - 시연화면  
+      - 특정단체의 불특정 다수가 아닌 특정 개인을 후원  
+      - 메신저를 통한 기부 대상자의 즉각적인 피드백  
+    - 기대효과  
+      - 사회적 약자의 삶의 질 개선  
+      - 기부의 일상화  
+      - 기부의 본질 개선  
   - [문제점 및 해결방안](#문제점-및-해결방안)  
+    - 문제점  
+      - 상황을 과장하거나 거짓으로 후원 유도  
+      - 후원받은 기부금을 원래 용도가 아닌 용도로 사용  
+    - 해결방안  
+      - 간단한 신청서 작성을 통해 사실확인 및 심사과정을 거침  
+      - 후원 종료 후 기부대상자의 후기와 기부자의 비공개 평과가정을 거침  
   - [예선 후 계획](#예선-후-계획)  
+    - 개발 심화 계획  
+      - Android Studio 앱 개발  
+      - Firebase Realtime Database를 활용한 메신저 구축  
+      - SQL Server를 활용한 회원정보 등의 유지관리  
+    - 홍보/마케팅 계획  
+      - SNS 활용  
+      - TV 프로그램 제보 및 출연  
 
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152640125-4c6dec9a-c6c5-47f1-ba04-90f2d2f785e4.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152640126-121486d3-9840-4e86-8c3a-97a20f794875.JPG)
+***
+## 서비스 개요 및 상세
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152640127-3ad5c4e2-f60e-4548-83a3-f735e58b4318.JPG)
 ![슬라이드4](https://user-images.githubusercontent.com/59362257/152640128-5bdc3a6e-938c-4be2-8d14-5844e28cc973.JPG)
+[목차로 돌아가기](#목차)
+***
+## 시연 및 기대효과
 ![슬라이드5](https://user-images.githubusercontent.com/59362257/152640130-3294a675-4631-4e0d-89a5-c65a01212132.JPG)
 ![슬라이드6](https://user-images.githubusercontent.com/59362257/152640131-36145511-1175-431e-a219-fa5a8bc59c66.JPG)
+[목차로 돌아가기](#목차)
+***
+## 문제점 및 해결방안
 ![슬라이드7](https://user-images.githubusercontent.com/59362257/152640132-623c641b-2d30-4388-a47d-821a914c500e.JPG)
+[목차로 돌아가기](#목차)
+***
+## 예선 후 계획
 ![슬라이드8](https://user-images.githubusercontent.com/59362257/152640135-e0bce30f-3f13-4d95-aefd-9c654cdcc168.JPG)
 ![슬라이드9](https://user-images.githubusercontent.com/59362257/152640136-70c2e00b-b649-48e2-9fce-6f8eab6c05bf.JPG)
+[목차로 돌아가기](#목차)
+
+
+
 
 
 ## C Team
