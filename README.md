@@ -3,7 +3,7 @@
 
 
 ## 목차
-- [A TEAM](#A-Team-SOMSearch-Of-Music): S.O.M(Search Of Music)  
+- [A TEAM](#A-Team-SOMSearch-Of-Music): S.O.M(Search Of Music) **`!수상작!`**  
   안무 분석을 통한 음악 검색 앱  
   - 제안배경 및 소비자 분석  
   - 활용기술 및 시연  
@@ -21,7 +21,7 @@
   - 프로젝트 수행방법
   - 기대효과 및 활용분야
   - 참고자료
-- [D TEAM](#D-Team-딥러닝-졸음감지-서비스): 딥러닝 졸음감지 서비스  
+- [D TEAM](#D-Team-딥러닝-졸음감지-서비스): 딥러닝 졸음감지 서비스 **`!수상작!`**  
   - 요구사항 분석
   - 아키텍처 설계
   - 기능 설계
