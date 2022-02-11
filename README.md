@@ -374,12 +374,12 @@
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152640612-b6791b0f-a623-4fc2-9029-1dafaecf048e.JPG)
 ***
 ## 요구사항 분석
-![슬라이드3](https://user-images.githubusercontent.com/59362257/152640613-a0ce6bcd-9270-4136-ac62-8ccbd1188f61.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/59362257/152640613-a0ce6bcd-9270-4136-ac62-8ccbd1188f61.JPG)  
 [목차로 돌아가기](#목차)
 ***
 ## 아키텍처 설계
 ![슬라이드4](https://user-images.githubusercontent.com/59362257/152640614-59c2e7ce-c957-486d-a9ac-ccd946772bb7.JPG)
-![슬라이드5](https://user-images.githubusercontent.com/59362257/152640616-5bf82ac7-4a68-411e-b1f8-7814052420f7.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/59362257/152640616-5bf82ac7-4a68-411e-b1f8-7814052420f7.JPG)  
 [목차로 돌아가기](#목차)
 ***
 ## 기능 설계
@@ -401,7 +401,7 @@
 ![슬라이드21](https://user-images.githubusercontent.com/59362257/152640636-11ae6e25-b441-4b07-b875-81279a0715a2.JPG)
 ![슬라이드22](https://user-images.githubusercontent.com/59362257/152640637-c8c358f0-83ee-4e63-9b5a-79154960f046.JPG)
 ![슬라이드23](https://user-images.githubusercontent.com/59362257/152640638-a074a4cc-8e16-4d21-ab6f-247dd995a421.JPG)
-![슬라이드24](https://user-images.githubusercontent.com/59362257/152640639-ed3e81dd-60d5-478d-8fbb-c59e384ccd2b.JPG)
+![슬라이드24](https://user-images.githubusercontent.com/59362257/152640639-ed3e81dd-60d5-478d-8fbb-c59e384ccd2b.JPG)  
 [목차로 돌아가기](#목차)
 ***
 ## 개발/구현
@@ -418,7 +418,7 @@
 ![슬라이드35](https://user-images.githubusercontent.com/59362257/152640656-7f2399d0-1092-44e5-bdfb-1ff7cb180309.JPG)
 ![슬라이드36](https://user-images.githubusercontent.com/59362257/152640657-74c14d4d-b773-440b-a207-9a92ad3b4803.JPG)
 ![슬라이드37](https://user-images.githubusercontent.com/59362257/152640658-dad63227-727c-444a-bcb9-70787e9954e5.JPG)
-![슬라이드38](https://user-images.githubusercontent.com/59362257/152640660-57651c79-1703-47fc-a633-d940170acef2.JPG)
+![슬라이드38](https://user-images.githubusercontent.com/59362257/152640660-57651c79-1703-47fc-a633-d940170acef2.JPG)  
 [목차로 돌아가기](#목차)
 ***
 ## 참조
@@ -427,5 +427,5 @@
 ![슬라이드41](https://user-images.githubusercontent.com/59362257/152640664-8a7a3e67-f5ad-49ab-9911-cbe69f890727.JPG)
 ![슬라이드42](https://user-images.githubusercontent.com/59362257/152640665-721be875-c0de-416b-a12d-c4738c96f943.JPG)
 ![슬라이드43](https://user-images.githubusercontent.com/59362257/152640666-ad2c2f3f-e97f-480f-ba7e-4dbcdfa1b8e6.JPG)
-![슬라이드44](https://user-images.githubusercontent.com/59362257/152640667-ab27af3a-e69c-4a86-966f-5275152985c9.JPG)
+![슬라이드44](https://user-images.githubusercontent.com/59362257/152640667-ab27af3a-e69c-4a86-966f-5275152985c9.JPG)  
 [목차로 돌아가기](#목차)
