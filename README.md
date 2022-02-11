@@ -5,13 +5,22 @@ SKU_DeepLearningStudy
 ## 목차
 - [A TEAM](#A-Team-SOMSearch-Of-Music): S.O.M(Search Of Music)  
   안무 분석을 통한 음악 검색 앱  
-  - 제안배경 및 소비자 분석
-  - 활용기술 및 시연
-  - 수익모델 및 시장분석
-  - 사회공헌 및 팀 역량
-- [B TEAM](#B-Team)  
+  - 제안배경 및 소비자 분석  
+  - 활용기술 및 시연  
+  - 수익모델 및 시장분석  
+  - 사회공헌 및 팀 역량  
+- [B TEAM](#B-Team-Helper): Helper  
+  국내 사회적 약자를 대상으로한 기부 앱  
+  - 서비스 개요 및 상세  
+  - 시연 및 기대효과  
+  - 문제점 및 해결방안  
+  - 예선 후 계획  
 - [C TEAM](#C-Team)  
 - [D TEAM](#D-Team)  
+
+
+
+
 
 ## A Team: S.O.M(Search Of Music)
     안무 분석을 통한 음악 검색 앱  
@@ -103,7 +112,17 @@ SKU_DeepLearningStudy
 ![슬라이드17](https://user-images.githubusercontent.com/59362257/152639541-262cf4f0-6c34-4615-9ff0-2d6795a871d1.JPG)
 [목차로 돌아가기](#목차)
 
-## B Team
+
+
+
+
+## B Team: Helper  
+    국내 사회적 약자를 대상으로한 기부 앱  
+  - [서비스 개요 및 상세](#서비스-개요-및-상세)  
+  - [시연 및 기대효과](#시연-및-기대효과)  
+  - [문제점 및 해결방안](#문제점-및-해결방안)  
+  - [예선 후 계획](#예선-후-계획)  
+
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152640125-4c6dec9a-c6c5-47f1-ba04-90f2d2f785e4.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152640126-121486d3-9840-4e86-8c3a-97a20f794875.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152640127-3ad5c4e2-f60e-4548-83a3-f735e58b4318.JPG)
