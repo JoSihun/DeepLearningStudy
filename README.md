@@ -80,7 +80,7 @@ SKU_DeepLearningStudy
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152639521-617e3c9d-dc44-49ef-b25b-ddb4d6b96f5f.JPG)
 ![슬라이드4](https://user-images.githubusercontent.com/59362257/152639522-bce100aa-aa47-41b0-b823-5883d2a2115c.JPG)
 ![슬라이드5](https://user-images.githubusercontent.com/59362257/152639523-2d2cd2e7-6146-45dd-8645-07460b39df88.JPG)
-
+[목차로 돌아가기](#목차)
 ***
 ## 활용기술 및 시연  
 ![슬라이드6](https://user-images.githubusercontent.com/59362257/152639525-9f88bbd5-3ed5-46fd-9342-d4e6beec5ba2.JPG)
@@ -89,19 +89,19 @@ SKU_DeepLearningStudy
 ![슬라이드9](https://user-images.githubusercontent.com/59362257/152639530-17a0d53b-d935-46d6-9e8b-249c2ac2ed06.JPG)
 ![슬라이드10](https://user-images.githubusercontent.com/59362257/152639531-2c4e2953-d599-4e55-a16a-7572da015be9.JPG)
 ![슬라이드11](https://user-images.githubusercontent.com/59362257/152639532-5e4ce3b3-95cf-4fa1-bbb5-115c9cd56c42.JPG)
-
+[목차로 돌아가기](#목차)
 ***
 ## 수익모델 및 시장분석  
 ![슬라이드12](https://user-images.githubusercontent.com/59362257/152639533-ec52cafc-3d7e-4dd6-88e3-4c58390dfe32.JPG)
 ![슬라이드13](https://user-images.githubusercontent.com/59362257/152639534-967436fe-3d5a-4248-a507-1846573bd39f.JPG)
 ![슬라이드14](https://user-images.githubusercontent.com/59362257/152639535-e291b575-ba3f-4332-8951-c3d11d4b7bc2.JPG)
 ![슬라이드15](https://user-images.githubusercontent.com/59362257/152639537-75d390d5-a37f-4d6c-a411-3992024df45b.JPG)
-
+[목차로 돌아가기](#목차)
 ***
 ## 사회공헌 및 팀 역량  
 ![슬라이드16](https://user-images.githubusercontent.com/59362257/152639540-c7554264-b7dd-4391-af48-eeb65753b11a.JPG)
 ![슬라이드17](https://user-images.githubusercontent.com/59362257/152639541-262cf4f0-6c34-4615-9ff0-2d6795a871d1.JPG)
-
+[목차로 돌아가기](#목차)
 
 ## B Team
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152640125-4c6dec9a-c6c5-47f1-ba04-90f2d2f785e4.JPG)
