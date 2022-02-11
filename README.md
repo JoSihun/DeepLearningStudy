@@ -20,7 +20,13 @@ SKU_DeepLearningStudy
   - 사회공헌 및 팀 역량
     - 사회공헌
     - 팀 역량
-  
+- [B TEAM](#B-Team)  
+- [C TEAM](#C-Team)  
+- [D TEAM](#D-Team)  
+
+## A Team: S.O.M(Search of Music)
+    안무 분석을 통한 음악 검색 앱  
+    
   - 제안 배경 및 현황  
     K-POP이 세계적으로 유행 중이며, 중독적인 멜로디뿐만 아니라 안무적인 요소도 있음
   - 기존 기술 및 서비스  
@@ -73,14 +79,6 @@ SKU_DeepLearningStudy
       팀원 전원 Python을 이용한 AI 프로그래밍 가능
     - AI 개발 프로젝트 참여  
       AI 개발 연구에 소속되어 활동한 경험
-
-- [B TEAM](#B-Team)  
-- [C TEAM](#C-Team)  
-- [D TEAM](#D-Team)  
-
-## A Team
-  ### S.O.M (Search of Music)
-  안무 분석을 통한 음악 검색 앱  
 ![슬라이드1](https://user-images.githubusercontent.com/59362257/152639519-65d7963d-6617-4983-b005-eaeab46c0c0f.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/59362257/152639520-6ac34ff8-684c-4cd5-9e17-67d2a8697f59.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/59362257/152639521-617e3c9d-dc44-49ef-b25b-ddb4d6b96f5f.JPG)
