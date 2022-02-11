@@ -15,7 +15,7 @@
   - 시연 및 기대효과  
   - 문제점 및 해결방안  
   - 예선 후 계획  
-- [C TEAM](#C-Team-AI-Indoor_Sterilization_Service): AI 실내 살균 서비스  
+- [C TEAM](#C-Team-AI-Indoor-Sterilization-Service): AI 실내 살균 서비스  
   - 프로젝트 개요
   - 프로젝트 수행결과
   - 프로젝트 수행방법
