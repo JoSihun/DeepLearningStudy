@@ -3,7 +3,7 @@ SKU_DeepLearningStudy
 
 
 ## 목차
-- [A TEAM](#A-Team): S.O.M(Search Of Music)  
+- [A TEAM](#A-Team-SOMSearch-Of-Music): S.O.M(Search Of Music)  
   안무 분석을 통한 음악 검색 앱  
   - 제안배경 및 소비자 분석
     - 제안배경 및 현황
@@ -24,7 +24,7 @@ SKU_DeepLearningStudy
 - [C TEAM](#C-Team)  
 - [D TEAM](#D-Team)  
 
-## A Team: S.O.M(Search of Music)
+## A Team: S.O.M(Search Of Music)
     안무 분석을 통한 음악 검색 앱  
     
   - 제안 배경 및 현황  
